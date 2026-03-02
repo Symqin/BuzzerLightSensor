@@ -10,9 +10,9 @@ Ketika kondisi **gelap** terdeteksi, sistem akan mengaktifkan **LED indikator** 
 
 Tambahkan gambar rangkaian pada folder `/images`.
 
-```md
-![image alt](https://github.com/Symqin/BuzzerLightSensor/blob/main/images/rangkaian.png?raw=true)
-```
+## 📸 Rangkaian Sistem
+
+![Rangkaian Arduino](https://github.com/Symqin/BuzzerLightSensor/blob/main/images/rangkaian.png?raw=true)
 
 ---
 
