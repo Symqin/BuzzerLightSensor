@@ -97,16 +97,6 @@ arduino-light-monitor/
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
-
-* Integrasi IoT (ESP8266 / ESP32)
-* Notifikasi ke smartphone
-* LCD / OLED display
-* Smart lamp automation
-* Penyimpanan data intensitas cahaya
-
----
-
 ## 👨‍💻 Author
 
 **Symqin**
