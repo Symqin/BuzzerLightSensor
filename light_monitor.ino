@@ -33,7 +33,6 @@ void loop() {
   Serial.println(sensor_value);
 
   // 3. Logika kontrol (Jika GELAP, nyalakan alarm)
-  // Kamu bisa ubah angka 500 ini sesuai sensitivitas yang diinginkan
   if (sensor_value < 500) {
     Serial.println("STATUS: GELAP - Alarm Aktif!");
     ledBlink(200);        // Kedip cepat
