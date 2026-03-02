@@ -8,7 +8,7 @@ Ketika kondisi **gelap** terdeteksi, sistem akan mengaktifkan **LED indikator** 
 
 ## 📸 Preview Proyek
 
-Tambahkan gambar rangkaian pada folder `/images`.
+![preview](https://github.com/Symqin/BuzzerLightSensor/blob/main/images/preview.jpeg?raw=true)
 
 ## 📸 Rangkaian Sistem
 
