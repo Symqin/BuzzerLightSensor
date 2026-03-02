@@ -109,6 +109,6 @@ arduino-light-monitor/
 
 ## 👨‍💻 Author
 
-**Syahril Mutaqin**
+**Symqin**
 
 ---
